@@ -1,0 +1,12 @@
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/bin/Debug/net9.0/SpreadsheetEditor.Core.deps.json
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/bin/Debug/net9.0/SpreadsheetEditor.Core.dll
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/bin/Debug/net9.0/SpreadsheetEditor.Core.pdb
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/obj/Debug/net9.0/SpreadsheetEditor.Core.csproj.AssemblyReference.cache
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/obj/Debug/net9.0/SpreadsheetEditor.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/obj/Debug/net9.0/SpreadsheetEditor.Core.AssemblyInfoInputs.cache
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/obj/Debug/net9.0/SpreadsheetEditor.Core.AssemblyInfo.cs
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/obj/Debug/net9.0/SpreadsheetEditor.Core.csproj.CoreCompileInputs.cache
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/obj/Debug/net9.0/SpreadsheetEditor.Core.dll
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/obj/Debug/net9.0/refint/SpreadsheetEditor.Core.dll
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/obj/Debug/net9.0/SpreadsheetEditor.Core.pdb
+/Users/bensanson/code/dotnet/speadsheet_editor/src/SpreadsheetEditor.Core/obj/Debug/net9.0/ref/SpreadsheetEditor.Core.dll

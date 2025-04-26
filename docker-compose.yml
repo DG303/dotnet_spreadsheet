@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  spreadsheet-editor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./data:/app/data
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    command: ["--help"]  # Default command to show help 

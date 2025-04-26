@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  spreadsheet-editor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: spreadsheet-editor:latest
+    container_name: spreadsheet-editor
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    volumes:
+      - ./src:/app/src
+      - ./samples:/app/samples
+    ports:
+      - "8080:5000"
+    networks:
+      - spreadsheet-network
+
+  # Development database (if needed in the future)
+  # db:
+  #   image: mcr.microsoft.com/mssql/server:2019-latest
+  #   environment:
+  #     - ACCEPT_EULA=Y
+  #     - SA_PASSWORD=Your_password123
+  #   ports:
+  #     - "1433:1433"
+  #   volumes:
+  #     - sql-data:/var/opt/mssql
+  #   networks:
+  #     - spreadsheet-network
+
+networks:
+  spreadsheet-network:
+    driver: bridge
+
+# volumes:
+#   sql-data: 
